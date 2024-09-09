@@ -26,4 +26,5 @@ Comentário -->
 
 # Sejam Bem-vindos ao Meu GitHub
 
-![Git do Gatinho](https://tenor.com/pt-BR/view/gatinho-gato-gato-e-computador-computer-cat-gif-22185203)
+![Git do Gatinho](https://i.gifer.com/7IjS.gif)
+
