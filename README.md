@@ -26,5 +26,9 @@ Comentário -->
 
 # Sejam Bem-vindos ao Meu GitHub
 
-![Git do Gatinho](https://i.gifer.com/7IjS.gif)
+👨 Olá me chamo Hélio Chagas!
+
+📃 Sou estudante de Inteligência Artificial e Ciências de Dados.
+
+📧 [Acesse o meu linkedin](https://www.linkedin.com/in/heliochagas/)
 
