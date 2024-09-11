@@ -22,6 +22,12 @@
 
 ## Cursos
 
+1. Github Certification
+2. Python Fundamentals  
+3. Formação Power BI Analyst
+4. Engenharia de Dados com Python
+5. Python AI Backend Developer  
+6. Engenharia de Prompts na AWS com Claude
 
 ## Github Stats
 
